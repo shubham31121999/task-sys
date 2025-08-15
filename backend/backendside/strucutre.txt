@@ -1,0 +1,24 @@
+Folder PATH listing
+Volume serial number is C278-9336
+D:.
+¦   manage.py
+¦   strucutre.txt
+¦   
++---backendside
+¦       asgi.py
+¦       settings.py
+¦       urls.py
+¦       wsgi.py
+¦       __init__.py
+¦       
++---main
+    ¦   admin.py
+    ¦   apps.py
+    ¦   models.py
+    ¦   tests.py
+    ¦   views.py
+    ¦   __init__.py
+    ¦   
+    +---migrations
+            __init__.py
+            
